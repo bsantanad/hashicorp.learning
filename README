@@ -1,6 +1,11 @@
-`.tf` files from my notes on oreilly's book: Terraform: Up and Running, 3rd
+This repo is for learning purposes only.
+
+terraform files from my notes on oreilly's book: Terraform: Up and Running, 3rd
 Edition By Yevgeniy Brikman.
 
-More info go to https://bsantanad.com/posts/terraform.html 
+packer files from following the [docs][hashicorp]
 
-This repo is for learning purposes only.
+More info go to https://bsantanad.com/posts/terraform.html 
+More info go to https://bsantanad.com/posts/packer.html 
+
+[hashicorp]: https://developer.hashicorp.com/packer/tutorials/aws-get-started
